@@ -39,12 +39,12 @@ I'm a Founding Full-Stack Software Engineer specializing in building scalable an
 
   ## 🚀 Tech Stack
 
-- **Frontend**: React, JavaScript (ES6+), Bootstrap, React Router
+- **Frontend**: React, TypeScript, JavaScript (ES6+), Bootstrap, React Router
 - **Backend**: Java, Spring Boot, Hibernate ORM, Spring AI, Model Context Protocol (MCP), Spring Security (JWT), Elastic Search, Node.js
 - **Databases**: PostgreSQL
 - **DevOps**: GitHub Actions, Docker
 - **AI Integration**: Model Context Protocol (MCP) with OpenAI, Anthropic Claude, LLM Tool Calling
-- **Test**: Jest, React Testing Library(RTL), Storybook, Chromatic, JUnit
+- **Test**: Jest, React Testing Library(RTL), Storybook, Chromatic, JUnit, Mockito
 
 ---
 
